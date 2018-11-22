@@ -1,5 +1,0 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/JUWEN/pen/NEggJx.
-
-
-TodoList-jQuery
- 
